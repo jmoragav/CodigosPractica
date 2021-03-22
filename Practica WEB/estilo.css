@@ -1,0 +1,21 @@
+.card {
+	
+
+	margin-top: 10px ; 
+	margin-bottom: 10px;
+}
+
+
+#barra {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+#canvas {
+		    background-color: DarkGray ;
+		   position: absolute;
+		    height: auto;
+			
+			margin-left: 35%;
+		}
